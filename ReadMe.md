@@ -34,3 +34,7 @@ git remote -v: To check if the current repo is connected to the remote repo
 Now we can do git push origin master, but as a shortcut, we need to create an upstream that indicated how to push it by default.
 Eg: git push -u origin master
 Now we can simply use git push
+
+------------------------------------
+
+Secondary File is made
